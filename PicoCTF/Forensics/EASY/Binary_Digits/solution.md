@@ -1,5 +1,6 @@
 # PROBLEM
 ---
+<img width="832" height="516" alt="image" src="https://github.com/user-attachments/assets/a53422d5-320b-4e49-9235-20a73408678e" />
 
 We are given a binary file **digits.bin**. It contains a raw binary text. The flag is hidden inside
 
