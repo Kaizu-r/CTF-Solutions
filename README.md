@@ -29,8 +29,9 @@ This repository is dedicated for storing my own CTF Solutions from various CTF C
 |strings|Checking strings inside files| Pre-installed|
 |xxd| For hexdunp | Pre-installed|
 |hexedit| Editing hex bytes | `sudo apt install hexedit` |
-|fdisk| Checking disc images for partitions | Pre-installed |
+|fdisk| Checking disk images for partitions | Pre-installed |
 |Autopsy| File system analysis | [Install Autopsy](https://www.autopsy.com/download/)
+|Sleuthkit| Digital forensics, file recovery, and disk analysis | sudo apt install sleuthkit |
 
 ### Steganography
 | Tool | Use | Installation |
