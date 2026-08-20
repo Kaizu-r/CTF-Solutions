@@ -22,3 +22,10 @@ The following tags were affected:
 <img width="456" height="41" alt="image" src="https://github.com/user-attachments/assets/8c109aa6-837f-4053-a44b-98af31705c0d" />
 <img width="448" height="20" alt="image" src="https://github.com/user-attachments/assets/d2e96e67-fc95-462c-b0c9-c02085f33e6e" />
 <img width="472" height="57" alt="image" src="https://github.com/user-attachments/assets/05a821f6-5070-4fa2-8aee-4da9d83561f8" />
+
+This does create an `original.jpg_original` clone file which we don't want, so we can add the `-overwrite_original` tag.
+
+Another problem is this:
+<img width="503" height="56" alt="image" src="https://github.com/user-attachments/assets/ba058674-27cc-4c24-baa9-ab7dc657f234" />
+
+We can use the `-FileModifyDate` and `-FileCreateDate` to change it.
