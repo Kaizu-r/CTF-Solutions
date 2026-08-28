@@ -1,23 +1,28 @@
 # CTF Solutions
 
-This repository is dedicated for storing my own CTF Solutions from various CTF Challenges websites. Simply navigate the directory to find the solution to a CTF you're struggling on. The flag is not included (don't be silly).
+This repository is dedicated for showcasing my own CTF Solutions from various CTF Challenges websites. Simply navigate the directory to find the solution to a CTF you're struggling on. The markdown files contains the guide for solving the puzzle.
 
 ## WEBSITES COVERED
 * [PicoCTF](https://play.picoctf.org/)
 
 ## INCLUDED IN THE SOLUTIONS FOLDER
-1. Problem File
+1. Problem File (excluding disc images and large files)
 2. solution.md
-3. Any scripts used
+3. Any scripts used (Python)
 
 ## NOT INCLUDED IN THE SOLUTIONS FOLDER
-1. The flag (The instructions are literally there, don't be lazy)
+1. The flag
 2. Extracted files
 
 ## TOOLS
 
 ### Operating System
 - Kali Linux (using WSL)
+
+### General 
+| Tool | Use | Installation |
+| :--- | :--- | :--- |
+|Linux CLI Utilities| General purpose | Pre-installed|
 
 ### Forensics
 | Tool | Use | Installation |
@@ -52,7 +57,7 @@ This repository is dedicated for storing my own CTF Solutions from various CTF C
 |Ghidra|Decompiling executable files to equivalent C code| [Install Ghidra](https://ghidralite.com/)|
 
 
-**Note: still adding solutions from my OG WriteUp document**
+**Work in Progress**
 
 
 
